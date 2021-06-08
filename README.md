@@ -3,6 +3,6 @@ An E-Store app using Spring Boot, Spring Security, JPA, MySql database.
 
 ### UI PREVIEW
 ###### Login Page
-![login]()
+![login](./preview/Screenshot(226).png)
 ###### UI Page
-![UI](./UI_Preview/ui.png)
+![UI](./preview/Screenshot(227).png)
